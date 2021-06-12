@@ -1,0 +1,16 @@
+@import '../base-variables';
+
+nav {
+  border-bottom: 3px solid $base-color-1;
+  background-color: $base-color-3;
+}
+
+.nav-item a{
+    color: $base-color-2;
+}
+
+.navbar-brand img {
+  width: 50px;
+
+}
+
