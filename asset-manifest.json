@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/RMC2020-BOT/static/js/main.24051673.chunk.js",
-    "main.js.map": "/RMC2020-BOT/static/js/main.24051673.chunk.js.map",
+    "main.js": "/RMC2020-BOT/static/js/main.00de4d99.chunk.js",
+    "main.js.map": "/RMC2020-BOT/static/js/main.00de4d99.chunk.js.map",
     "runtime-main.js": "/RMC2020-BOT/static/js/runtime-main.4e16b423.js",
     "runtime-main.js.map": "/RMC2020-BOT/static/js/runtime-main.4e16b423.js.map",
     "static/js/2.aa502660.chunk.js": "/RMC2020-BOT/static/js/2.aa502660.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.4e16b423.js",
     "static/js/2.aa502660.chunk.js",
-    "static/js/main.24051673.chunk.js"
+    "static/js/main.00de4d99.chunk.js"
   ]
 }
